@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Cortazar, Guanajuato</string>
+    <string name="profile_title">Cortazar, Guanajuato.</string>
+    <string name="profile_description">Un lugar especial para tì.</string>
+
+    <string name="item_historia">Hisoria</string>
+    <string name="item_historia_description">Conoce la historia de nuestro municipio.</string>
+    <string name="item_tradiciones">Tradiciones</string>
+    <string name="item_tradiciones_description">Acércate a las increibles tradiciones que lo distinguen.</string>
+    <string name="item_turismo">Turismo</string>
+    <string name="item_turismo_description">Prueba los atractivos turisticos del pueblo.</string>
+    <string name="item_principal">Conoce el pueblo</string>
+    <string name="item_principal_description">Conoce su historia y tradiciones que lo distinguen.</string>
+    <string name="item_donde_dormir">Donde dormir</string>
+    <string name="item_donde_dormir_description">Encuentra el mejor lugar para hospedarte.</string>
+    <string name="item_donde_comer">Donde comer</string>
+    <string name="item_donde_comer_description">Encuentra el mejor lugar para comer.</string>
+
+    <string name="about">Acerca de la App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Menu open</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="hello_world2">Example of using <i>DrawerFrameLayout</i> for the drawer.\nThis drawer has a custom max width of 250dp.\n\nCheck out the sample code on GitHub!</string>
+    <string name="hello_world3">Example of using <i>DrawerActivity</i> for the drawer.\nThis drawer shows theming and has a custom <i>Toolbar</i> set.\n\nVery simple ;)</string>
+    <string name="action_github">GitHub</string>
+    <string name="lorem_ipsum_short" translatable="false">Lorem ipsum</string>
+    <string name="lorem_ipsum_medium" translatable="false">Lorem ipsum dolor sit amet</string>
+    <string name="lorem_ipsum_long" translatable="false">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</string>
+    <string name="drawer_view">DrawerView</string>
+    <string name="drawer_frame_layout">DrawerFrameLayout</string>
+    <string name="drawer_activity">DrawerActivity</string>
+</resources>
